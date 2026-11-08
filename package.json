@@ -1,0 +1,9 @@
+{
+  "name": "workflow-agent-lab",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  }
+}
